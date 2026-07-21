@@ -60,13 +60,13 @@ Each component is implemented as a separate Spring Boot microservice using a lay
 
 # Microservices
 
-| Service | Description | README.md |
-|----------|-------------|----------|
-| Vehicle Service | Handles vehicle registration and FASTag details |[Readme-link](https://github.com/isravel-eng/smart-toll-plaza-automation/blob/main/VehicleAPI/README.md)|
-| Wallet Service | Controls FASTag wallet transactions and recharge |[Readme-link](https://github.com/isravel-eng/smart-toll-plaza-automation/blob/main/WalletAPI/README.md)|
-| Journey Service | Maintains records of vehicle journeys |[Readme-link](https://github.com/isravel-eng/smart-toll-plaza-automation/blob/main/JourneyAPI/README.md)|
-| Toll Service | Executes the complete toll payment process |[Readme-link](https://github.com/isravel-eng/smart-toll-plaza-automation/blob/main/TollAPI/README.md)|
-| API Gateway | Acts as the unified access point for all APIs |[Readme-link](https://github.com/isravel-eng/smart-toll-plaza-automation/blob/main/APIGateway/README.md)|
+| Service | Description |
+|----------|-------------|
+| Vehicle Service | Handles vehicle registration and FASTag details |
+| Wallet Service | Controls FASTag wallet transactions and recharge |
+| Journey Service | Maintains records of vehicle journeys |
+| Toll Service | Executes the complete toll payment process |
+| API Gateway | Acts as the unified access point for all APIs |
 
 ---
 
